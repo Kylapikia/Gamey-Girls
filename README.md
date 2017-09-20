@@ -1,2 +1,2 @@
-# TEMPNAME.GAMESPAPER
-For Games Project
+# GAMES PAPER
+Cool

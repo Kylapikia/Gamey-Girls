@@ -1,0 +1,2 @@
+# TEMPNAME.GAMESPAPER
+For Games Project

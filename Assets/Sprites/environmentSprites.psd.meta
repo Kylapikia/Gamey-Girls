@@ -1,0 +1,3058 @@
+fileFormatVersion: 2
+guid: 14e122b9e36878746ad92939efcad3ab
+timeCreated: 1506482554
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: environmentSprites_0
+    21300002: environmentSprites_1
+    21300004: environmentSprites_2
+    21300006: environmentSprites_3
+    21300008: environmentSprites_4
+    21300010: environmentSprites_5
+    21300012: environmentSprites_6
+    21300014: environmentSprites_7
+    21300016: environmentSprites_8
+    21300018: environmentSprites_9
+    21300020: environmentSprites_10
+    21300022: environmentSprites_11
+    21300024: environmentSprites_12
+    21300026: environmentSprites_13
+    21300028: environmentSprites_14
+    21300030: environmentSprites_15
+    21300032: environmentSprites_16
+    21300034: environmentSprites_17
+    21300036: environmentSprites_18
+    21300038: environmentSprites_19
+    21300040: environmentSprites_20
+    21300042: environmentSprites_21
+    21300044: environmentSprites_22
+    21300046: environmentSprites_23
+    21300048: environmentSprites_24
+    21300050: environmentSprites_25
+    21300052: environmentSprites_26
+    21300054: environmentSprites_27
+    21300056: environmentSprites_28
+    21300058: environmentSprites_29
+    21300060: environmentSprites_30
+    21300062: environmentSprites_31
+    21300064: environmentSprites_32
+    21300066: environmentSprites_33
+    21300068: environmentSprites_34
+    21300070: environmentSprites_35
+    21300072: environmentSprites_36
+    21300074: environmentSprites_37
+    21300076: environmentSprites_38
+    21300078: environmentSprites_39
+    21300080: environmentSprites_40
+    21300082: environmentSprites_41
+    21300084: environmentSprites_42
+    21300086: environmentSprites_43
+    21300088: environmentSprites_44
+    21300090: environmentSprites_45
+    21300092: environmentSprites_46
+    21300094: environmentSprites_47
+    21300096: environmentSprites_48
+    21300098: environmentSprites_49
+    21300100: environmentSprites_50
+    21300102: environmentSprites_51
+    21300104: environmentSprites_52
+    21300106: environmentSprites_53
+    21300108: environmentSprites_54
+    21300110: environmentSprites_55
+    21300112: environmentSprites_56
+    21300114: environmentSprites_57
+    21300116: environmentSprites_58
+    21300118: environmentSprites_59
+    21300120: environmentSprites_60
+    21300122: environmentSprites_61
+    21300124: environmentSprites_62
+    21300126: environmentSprites_63
+    21300128: environmentSprites_64
+    21300130: environmentSprites_65
+    21300132: environmentSprites_66
+    21300134: environmentSprites_67
+    21300136: environmentSprites_68
+    21300138: environmentSprites_69
+    21300140: environmentSprites_70
+    21300142: environmentSprites_71
+    21300144: environmentSprites_72
+    21300146: environmentSprites_73
+    21300148: environmentSprites_74
+    21300150: environmentSprites_75
+    21300152: environmentSprites_76
+    21300154: environmentSprites_77
+    21300156: environmentSprites_78
+    21300158: environmentSprites_79
+    21300160: environmentSprites_80
+    21300162: environmentSprites_81
+    21300164: environmentSprites_82
+    21300166: environmentSprites_83
+    21300168: environmentSprites_84
+    21300170: environmentSprites_85
+    21300172: environmentSprites_86
+    21300174: environmentSprites_87
+    21300176: environmentSprites_88
+    21300178: environmentSprites_89
+    21300180: environmentSprites_90
+    21300182: environmentSprites_91
+    21300184: environmentSprites_92
+    21300186: environmentSprites_93
+    21300188: environmentSprites_94
+    21300190: environmentSprites_95
+    21300192: environmentSprites_96
+    21300194: environmentSprites_97
+    21300196: environmentSprites_98
+    21300198: environmentSprites_99
+    21300200: environmentSprites_100
+    21300202: environmentSprites_101
+    21300204: environmentSprites_102
+    21300206: environmentSprites_103
+    21300208: environmentSprites_104
+    21300210: environmentSprites_105
+    21300212: environmentSprites_106
+    21300214: environmentSprites_107
+    21300216: environmentSprites_108
+    21300218: environmentSprites_109
+    21300220: environmentSprites_110
+    21300222: environmentSprites_111
+    21300224: environmentSprites_112
+    21300226: environmentSprites_113
+    21300228: environmentSprites_114
+    21300230: environmentSprites_115
+    21300232: environmentSprites_116
+    21300234: environmentSprites_117
+    21300236: environmentSprites_118
+    21300238: environmentSprites_119
+    21300240: environmentSprites_120
+    21300242: environmentSprites_121
+    21300244: environmentSprites_122
+    21300246: environmentSprites_123
+    21300248: environmentSprites_124
+    21300250: environmentSprites_125
+    21300252: environmentSprites_126
+    21300254: environmentSprites_127
+    21300256: environmentSprites_128
+    21300258: environmentSprites_129
+    21300260: environmentSprites_130
+    21300262: environmentSprites_131
+    21300264: environmentSprites_132
+    21300266: environmentSprites_133
+    21300268: environmentSprites_134
+    21300270: environmentSprites_135
+    21300272: environmentSprites_136
+    21300274: environmentSprites_137
+    21300276: environmentSprites_138
+    21300278: environmentSprites_139
+    21300280: environmentSprites_140
+    21300282: environmentSprites_141
+    21300284: environmentSprites_142
+    21300286: environmentSprites_143
+    21300288: environmentSprites_144
+    21300290: environmentSprites_145
+    21300292: environmentSprites_146
+    21300294: environmentSprites_147
+    21300296: environmentSprites_148
+    21300298: environmentSprites_149
+    21300300: environmentSprites_150
+    21300302: environmentSprites_151
+    21300304: environmentSprites_152
+    21300306: environmentSprites_153
+    21300308: environmentSprites_154
+    21300310: environmentSprites_155
+    21300312: environmentSprites_156
+    21300314: environmentSprites_157
+    21300316: environmentSprites_158
+    21300318: environmentSprites_159
+    21300320: environmentSprites_160
+    21300322: environmentSprites_161
+    21300324: environmentSprites_162
+    21300326: environmentSprites_163
+    21300328: environmentSprites_164
+    21300330: environmentSprites_165
+    21300332: environmentSprites_166
+    21300334: environmentSprites_167
+    21300336: environmentSprites_168
+    21300338: environmentSprites_169
+    21300340: environmentSprites_170
+    21300342: environmentSprites_171
+    21300344: environmentSprites_172
+    21300346: environmentSprites_173
+    21300348: environmentSprites_174
+    21300350: environmentSprites_175
+    21300352: environmentSprites_176
+    21300354: environmentSprites_177
+    21300356: environmentSprites_178
+    21300358: environmentSprites_179
+    21300360: environmentSprites_180
+    21300362: environmentSprites_181
+    21300364: environmentSprites_182
+    21300366: environmentSprites_183
+    21300368: environmentSprites_184
+    21300370: environmentSprites_185
+    21300372: environmentSprites_186
+    21300374: environmentSprites_187
+    21300376: environmentSprites_188
+    21300378: environmentSprites_189
+    21300380: environmentSprites_190
+    21300382: environmentSprites_191
+    21300384: environmentSprites_192
+    21300386: environmentSprites_193
+    21300388: environmentSprites_194
+    21300390: environmentSprites_195
+    21300392: environmentSprites_196
+    21300394: environmentSprites_197
+    21300396: environmentSprites_198
+    21300398: environmentSprites_199
+    21300400: environmentSprites_200
+    21300402: environmentSprites_201
+    21300404: environmentSprites_202
+    21300406: environmentSprites_203
+    21300408: environmentSprites_204
+    21300410: environmentSprites_205
+    21300412: environmentSprites_206
+    21300414: environmentSprites_207
+    21300416: environmentSprites_208
+    21300418: environmentSprites_209
+    21300420: environmentSprites_210
+    21300422: environmentSprites_211
+    21300424: environmentSprites_212
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: environmentSprites_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 883
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 913
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 913
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 883
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 883
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 907
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 907
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 884
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 884
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_17
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 882
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 803
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_25
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 833
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 833
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 804
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_28
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 854
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_29
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 804
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_30
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 849
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_31
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 827
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_32
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 827
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 804
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 804
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_35
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 804
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 723
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_43
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 753
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 753
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_45
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 723
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_46
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 723
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_47
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 723
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_48
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 724
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_49
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 723
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 723
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 739
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 739
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_53
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 739
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_58
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 673
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_62
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 673
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_63
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 643
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_64
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 643
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_65
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_66
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 643
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_67
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 643
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_68
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 643
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_69
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 662
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_70
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 644
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_71
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 644
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_77
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_78
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_79
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 593
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_80
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 593
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_81
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_82
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_83
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_84
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 563
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 563
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_86
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 564
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_87
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 585
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_88
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 563
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_89
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 563
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_92
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_95
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_97
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 513
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_98
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 513
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_99
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_100
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_101
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_102
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 483
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_103
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 484
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_104
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 484
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_105
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 484
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_106
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 483
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_107
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 483
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_110
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_111
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_114
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_115
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 433
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_116
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 433
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_117
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_118
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_119
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_120
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_121
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_122
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 403
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_123
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 324
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_124
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 324
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_126
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_130
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_131
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_132
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 353
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_133
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 353
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_134
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_135
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 364
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_136
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_137
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 364
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_138
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_139
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 323
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_140
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 324
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_141
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 324
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_142
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 331
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_143
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 331
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_145
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_146
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_147
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_148
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_149
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_150
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_151
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 273
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_152
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 273
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_153
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 243
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_154
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 243
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_155
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 243
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_156
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_157
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 243
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_158
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 243
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_159
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 243
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_160
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 243
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_161
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 243
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_162
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_163
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_164
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_165
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_166
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_167
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_168
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_169
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 193
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_170
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 193
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_171
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_172
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_173
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 163
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_174
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 163
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_175
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 163
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_176
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 186
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_177
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 186
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_178
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 186
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_179
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 186
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_181
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_182
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_183
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_184
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_185
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_186
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 83
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_187
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 113
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_188
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 113
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_189
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 83
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_190
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 83
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_191
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 83
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_192
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 83
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_193
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 83
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_194
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 83
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_195
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 83
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_196
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 83
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_197
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 83
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_198
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_199
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_200
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_201
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_202
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_203
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_204
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_205
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 33
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_206
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 33
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_207
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_208
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_209
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_210
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_211
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: environmentSprites_212
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 3
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

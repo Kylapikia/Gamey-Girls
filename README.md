@@ -1,2 +1,3 @@
-# GAMES PAPER
-Cool
+# Hoppy Frog
+
+Simple platformer game.

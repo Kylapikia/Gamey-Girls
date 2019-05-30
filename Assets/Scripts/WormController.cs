@@ -1,7 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+//using static System.Net.Mime.MediaTypeNames;
+//using UnityEngine.UI;
 
 public class WormController : MonoBehaviour {
 
@@ -10,7 +11,7 @@ public class WormController : MonoBehaviour {
 	public float sight = 6f;
 	public float stoppingDistence = 3f;
 
-	public Text text;
+	//public Text text;
 
 	public int wormCount;
 
@@ -40,7 +41,7 @@ public class WormController : MonoBehaviour {
 		if(other.name == "Player"){
 			Destroy (this);
 			wormCount++;
-			text.text = text;
+			//text.text = text;
 		}
 	}
 }

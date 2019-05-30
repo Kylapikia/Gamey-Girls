@@ -1,3 +1,3 @@
 # Hoppy Frog
 
-Simple platformer game.
+Simple platformer game created in Unity.
